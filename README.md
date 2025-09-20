@@ -13,5 +13,6 @@ This script simulates a **balanced three-phase voltage source** and plots the si
 ### 2. `TPVPD.m` – Three-phase voltage phasor diagram
 This script represents the same three-phase voltages in the **complex plane** using phasors (Fresnel diagram).  
 Phasors are vectors that simplify AC analysis by showing magnitude and phase angle.
-![enter image description here](#)
+
+![](https://github.com/youness-el-kabtane/Three-Phase-Voltage-Simulation-and-Fresnel-Diagram/blob/main/image/image2.png?raw=true)
 
